@@ -1,7 +1,7 @@
 # Data Engineering New York Yellow Taxi
 
 <p>
-    <img src="/images/Cover.jpg"/>
+    <img src="/Cover.jpg"/>
 </p>
 
 This project explores the New York Yellow Taxi dataset available from the [NYC Taxi & Limousine Commission](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page), focusing on the December 2023 Parquet data.
