@@ -45,4 +45,4 @@ Conduct a thorough EDA to uncover any initial insights or patterns in the data, 
 4. Are there any trends in ride durations or distances over time?
 5. How does the taxi usage vary by area?
 
-The insights generated from this analysis could inform strategic decisions to improve taxi efficiency and service quality, such as adjusting fleet sizes during peak hours, optimizing route planning, and tailoring services to meet customer demand more effectively.
+The insights generated from this analysis could inform strategic decisions to improve taxi efficiency and service quality, such as adjusting fleet sizes during peak hours, optimizing route planning, and tailoring services to meet customer demand more effectively. Please find [the complete analysis](https://github.com/JellyBella/ny_taxi/blob/main/ny_taxi_jupyter/EDA.ipynb) with an executive summary at the end of each section.
